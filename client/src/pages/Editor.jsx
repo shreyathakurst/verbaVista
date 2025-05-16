@@ -1,4 +1,3 @@
-"use client"
 
 import { useState, useEffect, useContext, useCallback } from "react"
 import { useParams, useNavigate } from "react-router-dom"

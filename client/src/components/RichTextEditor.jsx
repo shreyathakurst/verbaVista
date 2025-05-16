@@ -1,5 +1,3 @@
-"use client"
-
 import { useRef } from "react"
 import { Editor } from "@tinymce/tinymce-react"
 
